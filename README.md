@@ -1,7 +1,10 @@
 # 💫About Me :
 💻Frontend Web Developer and Programmer
+
 🔭Currently Focusing On Doing More Projects
+
 📘Currently Learning React
+
 ☀️Kurdish
 
 ## 🌐Socials
