@@ -3,8 +3,6 @@
 
 🔭Currently Focusing On Doing More Projects
 
-📘Currently Learning React
-
 ☀️Kurdish
 
 ## 🌐Socials
